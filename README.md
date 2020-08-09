@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is George Vasilakis and I'm a 2nd year student in Web and Mobile Development. I'm from Greece, living in the UK, Studying at the University of Sunderland. You can find me on  [![LinkedIn][3.2]][1].
+My name is George Vasilakis and I'm a 2nd year student in Web and Mobile Development. I'm from Greece, living in the UK, Studying at the University of Sunderland. You can find me on  [![LinkedIn][3.2]][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
