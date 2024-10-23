@@ -1,6 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is George Vasilakis, and I'm a 5th year student in Web and Mobile Development. I'm from Greece, living in the UK, and Studying at the University of Sunderland. You can find me on  [![LinkedIn][3.2]][2].
+# Hi, I'm George! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -21,7 +19,7 @@ My name is George Vasilakis, and I'm a 5th year student in Web and Mobile Develo
 <a href="https://github.com/gvasilakiss/gvasilakiss">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvasilakiss&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="gvasilakiss's GitHub Stats" />
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gvasilakiss" alt="gvasilakiss" /> </p>
+
 
 <!-- links to your social media accounts -->
 
